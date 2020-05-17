@@ -4,4 +4,7 @@ The first command I'm learning is git add.
 The second is git commit -m.
 The third one is git status.
 The fourth one is git diff.
+The fifth one is git log.
+The sixth one is git reset --hard "commitid"/HEAR~number.
+The seventh one is git reflog.
 Learning git is so much fun!
