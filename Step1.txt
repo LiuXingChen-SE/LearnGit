@@ -1,0 +1,3 @@
+The first step is create the local respo/
+and try the bascial command git add and git commit.
+
