@@ -1,4 +1,5 @@
 The first step is create the local respo/
 and try the bascial command git add and git commit.
 
-Modify sth in master branch and feeling the merge conflict.
+Modify something in feature branch and try to merge to master branch.
+
