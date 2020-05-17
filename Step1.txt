@@ -2,3 +2,9 @@ The first step is create the local respo/
 and try the bascial command git add and git commit.
 Modify something in feature branch and try to merge to master branch.
 
+
+somehting still need to be down in this content, but I have to fix the bug right now.
+I will use git stash to save the context right now and create a new branch to fix the bug.
+After that, I will swithc back to this branch and recover the condition and try to keep working.
+
+
