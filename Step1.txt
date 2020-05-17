@@ -1,5 +1,4 @@
 The first step is create the local respo/
 and try the bascial command git add and git commit.
-
 Modify something in feature branch and try to merge to master branch.
 
